@@ -1,0 +1,22 @@
+{
+  "name": "aiactor_backend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Samanimkr/AIActor_Backend.git"
+  },
+  "author": "Samani Mukhtar and Jesse Davda",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Samanimkr/AIActor_Backend/issues"
+  },
+  "homepage": "https://github.com/Samanimkr/AIActor_Backend#readme",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
